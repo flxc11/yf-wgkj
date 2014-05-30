@@ -1,0 +1,33 @@
+@charset "utf-8";
+.homepage { text-align: left; min-width: 1000px; width: 100%; color: #213442; background: #EBEEF0 url("../images/footer_slice_5.png"); }
+.homepage .sy-column { width: 990px; margin: 0 auto; }
+.homepage .top-style { height: 480px; background: url("../images/marquee_bg_2.png"); background-position: 0 0; background-size: cover; }
+.homepage .top { position: absolute; z-index: 3; top: 0; left: 0; width: 100%; height: 100px; min-width: 1000px; }
+.homepage .top .shadow { height: 10px; }
+.homepage .top .shadow img { width: 100%; height: 100%; }
+.homepage #top-navigation { float: left; width: 735px; }
+.homepage #dmenu, .homepage .top .reflect { position: relative; left: -10px; float: left; }
+.homepage .slideshow { position: absolute; z-index: 1; top: 122px; left: 0; width: 100%; height: 480px; min-width: 1000px; color: #35516B; overflow: hidden; }
+.homepage .slideshow a { color: #35516B; }
+.homepage .top .dots { position: relative; top: 540px; clear: both; float: left; width: 100%; height: 30px; text-align: center; }
+.homepage .top .dots .dot { width: 30px; height: 30px; font-family: 'Microsoft YaHei'; font-size: 50px; line-height: 30px; padding: 0 10px; }
+.homepage .top .dots .dot a { color: #ffffff; text-decoration: none; }
+.homepage .top .dots .dot a:focus { outline: none; }
+.homepage .slideshow .slide { position: absolute; top: 0; left: 0; z-index: 1; display: none; height: 480px; width: 100%; }
+.homepage .slideshow .slide .overlay { position: relative; top: 100px; left: 41%; margin-left: -450px; display: none; width: 920px; }
+.homepage .slideshow .slide img { position: absolute; left: 50%; /* NEEDS TO BE NEGATIVE HALF OF IMAGE WIDTH */
+margin-left: -776px; height:500px; }
+.homepage .slideshow .slide img.left { position: absolute; left: 50%; margin-left: -788px; }
+.homepage .slideshow .slide img.right { position: absolute; left: 50%; margin-left: 800px; }
+.homepage .slideshow .slide h1 { position: relative; left: -10px; font-size: 155px; line-height: 175px; margin-bottom: -20px; padding-bottom: 35px; }
+.homepage .slideshow .slide h2 { position: relative; left: -10px; font-size: 85px; line-height: 110px; margin-bottom: -20px; padding-bottom: 35px; }
+.homepage .slideshow .slide h3 { position: relative; left: -10px; font-size: 65px; line-height: 65px; margin-bottom: -20px; padding-bottom: 35px; }
+.homepage .slideshow .slide .info { font-family: 'Microsoft YaHei', 'Helvetica Neue', arial, serif; font-size: 24px; width: 575px; margin-top: 15px; }
+.homepage .slideshow .slide .info .cufon { padding-bottom: 4px; }
+.homepage .slideshow .slide .link { position: absolute; top: 0; height: 260px; width: 100%; left: -100px; margin-top: 0px; font-family: 'Microsoft YaHei', 'Helvetica Neue', arial, serif; font-size: 24px; display: none; }
+.homepage .slideshow .slide .link a { background: url("../images/spacer1.gif"); color: #0b83d3; text-decoration: none; width: 100%; height: 100%; display: block; outline: 0; }
+.homepage .slideshow .slide .link a span { position: absolute; /*bottom: 0;*/
+	/*bottom: -40px;*/
+top: 270px; }
+.homepage .slideshow .slide .link a:hover { color: #213443; }
+.homepage .slideshow .slide .link a:focus { outline: 0; }

@@ -1,0 +1,46 @@
+.wrap980 { width: 980px; margin: 0 auto; }
+.slide_wrap { text-align: center; }
+.slide_wrap ul { width: 100%; height: 600px; }
+.slide_wrap li { width: 100%; height: 600px; display: none; text-align: center; }
+.slide_wrap li.current { display: block; }
+.slide_wrap li img { width: 1200px; height: 600px; }
+.slide_wrap ul.bg_color1 { background: #154868; }
+.slide_wrap ul.bg_color2 { background: #C86614; }
+.slide_wrap ul.bg_color3 { background: #774394; }
+.slide_wrap ul.bg_color4 { background: #21497F; }
+.slide_other { position: relative; width: 980px; height: 600px; margin: -600px auto 0; }
+.slide_other h1 { position: absolute; top: 16px; left: 0; width: 221px; height: 42px; background: url(http://img.t.sinajs.cn/t4/appstyle/e/images/login/logo_e.png?id=1346233103868) no-repeat; _background: none; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop, src='http://img.t.sinajs.cn/t4/appstyle/e/images/login/logo_e.png?id=1346233103868');
+}
+.slide_other h1 a { display: block; width: 221px; height: 42px; text-indent: -9999em; }
+.slide_other a.link_ie6 { position: absolute; top: 16px; left: 0; width: 221px; height: 42px; text-indent: -9999em; }
+.slide_other .slide_more { position: absolute; left: 0; bottom: 30px; }
+.slide_other .slide_more a, .slide_other .slide_more a:hover { font-family: "Microsoft YaHei"; color: #FFF; }
+.slide_other .slide_more i { display: inline-block; width: 12px; height: 12px; margin-right: 3px; background: url(http://img.t.sinajs.cn/t4/appstyle/e/images/login/icon_query.png) no-repeat; _background: none; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop, src='http://img.t.sinajs.cn/t4/appstyle/e/images/login/icon_query.png');
+}
+.slide_other .login_btn { position: absolute; top: 254px; right: 18px; width: 331px; height: 73px; }
+.slide_other .login_btn a { display: inline-block; width: 331px; height: 73px; border-radius: 2px; background-color: #7AD717; -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.16); -moz-box-shadow: 0 1px 3px rgba(0,0,0,.16); box-shadow: 0 1px 3px rgba(0,0,0,.16); background: -webkit-linear-gradient(top, #8fe10f, #65ce20); background: -moz-linear-gradient(top, #8fe10f, #65ce20); background: -o-linear-gradient(top, #8fe10f, #65ce20); background: -ms-linear-gradient(top, #8fe10f, #65ce20); background: linear-gradient(to bottom, #8fe10f, #65ce20); font-size: 33px; line-height: 72px; font-family: "Microsoft YaHei"; color: #FEE; text-shadow: 0 1px 3px rgba(0,0,0,.3); text-align: center; text-decoration: none; }
+.slide_other .login_btn a:hover { background-color: #8FE10F; background: -webkit-linear-gradient(top, #8fe10f, #73D41A); background: -moz-linear-gradient(top, #8fe10f, #73D41A); background: -o-linear-gradient(top, #8fe10f, #73D41A); background: -ms-linear-gradient(top, #8fe10f, #73D41A); background: linear-gradient(to bottom, #8fe10f, #73D41A); text-decoration: none; color: #FFF; }
+.slide_other .slide_tab { position: absolute; left: 440px; bottom: 30px; }
+.slide_other .slide_tab li { overflow: hidden; float: left; width: 13px; height: 13px; margin-right: 17px; background: url(http://img.t.sinajs.cn/t4/appstyle/e/images/login/slide_tab.png) no-repeat; _background: none; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop, src='http://img.t.sinajs.cn/t4/appstyle/e/images/login/slide_tab.png');
+}
+.slide_other .slide_tab li.current { background-position: 0 -13px; _background: none; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop, src='http://img.t.sinajs.cn/t4/appstyle/e/images/login/slide_tab_c.png');
+}
+.tips_info { position: absolute; top: 350px; right: 18px; font-size: 12px; color: #fffdea; font-family: "Microsoft YaHei"; }
+.tips_info a, .tips_info a:hover { margin: 0 5px; color: #eeff7e; }
+.company_show { position: relative; }
+.company_show h2 { margin: 15px 0 15px 9px; font-family: "Microsoft YaHei"; font-size: 16px; color: #545454; }
+.company_show .company_wrap { overflow: hidden; width: 980px; height: 294px; }
+.company_show .company_wrap ul { width: 3920px; height: 294px; }
+.company_show .company_wrap li { float: left; width: 980px; height: 294px; }
+.company_show .company_wrap li div { display: inline-block; _display: inline; float: left; overflow: hidden; width: 80px; height: 80px; margin: 0 9px 18px; }
+.company_show .company_wrap li img{width:80px; height:80px;}
+.company_show .show_prev, .company_show .show_next { visibility: hidden; _visibility: visible; position: absolute; top: 0; left: -25px; _left: -35px; width: 25px; height: 100%; background: url(../images/dwinx_btn1.jpg) no-repeat left center; cursor: pointer; }
+.company_show .show_next { right: -25px; left: auto; background: url(../images/dwinx_btn2.jpg) no-repeat right center; }
+.show_prev:hover, .show_next:hover, .company_show:hover .show_prev, .company_show:hover .show_next { visibility: visible; }
+.company_show .more { padding: 0 9px; text-align: right; }
+.company_show .more a { display: inline-block; width: 73px; height: 21px; border-radius: 11px 10px 10px 11px/11px 11px 10px 10px; background-color: #86CF0C; background: -webkit-linear-gradient(bottom, #83cf0b, #a0d11a); background: -moz-linear-gradient(bottom, #83cf0b, #a0d11a); background: -o-linear-gradient(bottom, #83cf0b, #a0d11a); background: -ms-linear-gradient(bottom, #83cf0b, #a0d11a); background: linear-gradient(to top, #83cf0b, #a0d11a); font-family: "Microsoft YaHei"; color: #FEE; line-height: 22px; text-align: center; }
+.company_show .more a:hover { text-decoration: none; background: #97D015; background: -webkit-linear-gradient(bottom, #97D015, #a0d11a); background: -moz-linear-gradient(bottom, #97D015, #a0d11a); background: -o-linear-gradient(bottom, #97D015, #a0d11a); background: -ms-linear-gradient(bottom, #97D015, #a0d11a); background: linear-gradient(to top, #97D015, #a0d11a); color: #FFF; }
+.slide_wrap li { display: block; }
+.slide_tab li { cursor: pointer; }
+.dwinx_chgImg { height: 518px; overflow: hidden; position: relative }
+.slide { position: absolute; top: -82px; width: 100% }

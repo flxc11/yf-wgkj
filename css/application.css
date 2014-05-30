@@ -1,0 +1,56 @@
+.m2regCon { width: 980px; }
+.m2reg_c1 { background: url(../images/m2reg_bg1.jpg) no-repeat 443px 12px; height: 111px; border-bottom: 1px solid #2299E9; color: #494949; margin-bottom: 30px; }
+.m2reg_c1l { line-height: 25px; float: left; width: 448px; padding-top: 40px; }
+.m2reg_1p { font-size: 22px; line-height: 28px; color: #000; }
+.m2reg_c1r { line-height: 20px; float: right; width: 225px; padding-top: 47px; }
+.m2reg_c2 { line-height: 47px; background: url(../images/m2reg_bg2.jpg) no-repeat; height: 48px; }
+.m2reg_c2 ul li { text-align: center; float: left; width: 326px; font-size: 16px; line-height: 47px; color: #494949; }
+.m2reg_c2 ul .m2reg_cutItm { color: #FFF; }
+.m2reg_c3 { padding: 32px 0px 60px; }
+.m2reg_c3 ul li { line-height: 36px; height: 36px; }
+.m2reg_1s { float: left; width: 222px; padding-right: 15px; line-height: 36px; font-size: 16px; text-align: right; }
+.m2reg_1li { line-height: 24px; height: 24px; margin-bottom: 21px; color: #978998; }
+.m2reg_sel { padding: 3px; border: 1px solid #CCC!important; margin-top:15px; *margin-top:5px; _margin-top:0px; margin-right: 10px;}
+.m2reg_sel2{margin-top:5px; _margin-top:8px;}
+.m2reg_c3 ul li { clear: both; }
+.m2reg_c3 ul .m2reg_2li { margin-bottom: 20px; }
+.m2reg_submit { background: url(../images/m2reg_btn.jpg) no-repeat; height: 37px; width: 109px; border-width: 0px; border-style: none; cursor: pointer; }
+.m2reg_c2a { background: url(../images/m2reg_bg3.jpg) no-repeat; }
+.m2reg_c4 ul li { line-height: 56px; height: 56px; font-size: 14px; color: #494949; }
+.m2reg_c4 ul li span { font-size: 16px; line-height: 56px; text-align: right; float: left; width: 214px; padding-right: 16px; }
+.m2reg_rad{ margin:0 5px 0 0!important; position: relative; width: auto!important; }
+.m2reg_c4 { padding: 32px 0px 60px; }
+.m2reg_c4 li .fl{ position:relative; _top:18px;}
+.m2reg_c2b { background: url(../images/m2reg_bg4.jpg) no-repeat; }
+.m2reg_c5 { margin-top: 82px; background: url(../images/m2reg_bg5.jpg) no-repeat 125px 9px; padding-left: 234px; height: 175px; line-height: 27px; font-size: 14px; }
+.m2reg5_1p { font-size: 30px; line-height: 42px; color: #2693D8; padding-bottom: 30px; }
+.m2reg5_a { color: #3B7698; }
+.m2regCon { width: 980px; }
+.m2reg_c1 { background: url(../images/m2reg_bg1.jpg) no-repeat 443px 12px; height: 111px; border-bottom: 1px solid #2299E9; color: #494949; margin-bottom: 30px; }
+.m2reg_c1l { line-height: 25px; float: left; width: 448px; padding-top: 40px; }
+.m2reg_1p { font-size: 22px; line-height: 28px; color: #000; }
+.m2reg_c1r { line-height: 20px; float: right; width: 225px; padding-top: 47px; }
+.m2reg_c2 { line-height: 47px; background: url(../images/m2reg_bg2.jpg) no-repeat; height: 48px; }
+.m2reg_c2 ul li { text-align: center; float: left; width: 326px; font-size: 16px; line-height: 47px; color: #494949; }
+.m2reg_c2 ul .m2reg_cutItm { color: #FFF; }
+.m2reg_c3 { padding: 32px 0px 60px; }
+.m2reg_c3 ul li { line-height: 36px; }
+.m2reg_1s { float: left; width: 222px; padding-right: 15px; line-height: 36px; font-size: 16px; text-align: right; }
+.m2reg_c3 ul .m2reg_1li,.m2reg_c4 ul .m2reg_1li { line-height: 24px; height: 24px; margin-bottom: 21px; color: #cccccc; }
+.m2reg_sel { padding: 3px; border: 1px solid #CCC!important; margin-top:15px; *margin-top:5px; _margin-top:0px; }
+.m2reg_sel2{margin-top:5px; _margin-top:8px;}
+.m2reg_c3 ul .m2reg_2li,.m2reg_c4 ul .m2reg_2li { margin-bottom: 20px; }
+.m2reg_submit { background: url(../images/m2reg_btn.jpg) no-repeat; height: 37px; width: 109px; border-width: 0px; border-style: none; cursor: pointer; }
+.m2reg_c2a { background: url(../images/m2reg_bg3.jpg) no-repeat; }
+.m2reg_c4 ul li { line-height: 56px; height: 56px; font-size: 14px; color: #494949; }
+.m2reg_c4 ul li span { font-size: 16px; line-height: 56px; text-align: right; float: left; width: 214px; padding-right: 16px; }
+.m2reg_rad{ margin:0 5px 0 0!important; position: relative; width: auto!important; }
+.m2reg_c4 { padding: 32px 0px 60px; }
+.m2reg_c4 li .fl{ position:relative; _top:18px;}
+.m2reg_c2b { background: url(../images/m2reg_bg4.jpg) no-repeat; }
+.m2reg_c5 { margin-top: 82px; background: url(../images/m2reg_bg5.jpg) no-repeat 125px 9px; padding-left: 234px; height: 175px; line-height: 27px; font-size: 14px; }
+.m2reg5_1p { font-size: 30px; line-height: 42px; color: #2693D8; padding-bottom: 30px; }
+.m2reg5_a { color: #3B7698; }
+.form-inline .m2reg_int{ padding: 0 5px!important; height: 34px!important; line-height: 30px; width: 470px!important; font-size: 14px; border: 1px solid #CCCCCC!important;display: block; }
+.form-inline .m2reg_intarea{ padding: 0 5px!important; height: 100px!important; line-height: 24px; width: 470px!important; font-size: 14px; border: 1px solid #CCCCCC!important;display: block; }
+.form-inline .error { border: 2px solid #f89406 !important; }
